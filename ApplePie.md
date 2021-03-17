@@ -5,12 +5,8 @@
 - some amount of flour
 
 ## Instructions
-Get bowl.
-
-Put everything into the bowl.
-
-Stirr.
-
-Bake!
-
-Eat.
+Get bowl.  
+Put everything into the bowl.  
+Stirr.  
+Bake!  
+Eat.  
